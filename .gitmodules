@@ -1,0 +1,3 @@
+[submodule "PgwBrowser"]
+	path = PgwBrowser
+	url = git@github.com:Pagawa/PgwBrowser.git
